@@ -46,16 +46,16 @@ The project consists of the following files:
 ### Run Locally
 -Clone the repository
 
--git clone 
+-git clone https://github.com/MujaheedAliKhan/BASIC-PROJECTS.git
 
 Navigate to the project folder
 
 ```bash
- cd 
+ cd BASIC-CALCULATOR
 ```
 ## Use Calculator through Online
 
-This is a link to [Basic calculator](http://127.0.0.1:5500/BASIC-PROJECTS/BASIC-CALCULATOR/index.html)
+This is a link to [Basic calculator](https://mujaheedalikhan.github.io/BASIC-PROJECTS/BASIC-CALCULATOR/)
 
 ## Note
 For security reasons, avoid using `eval()` in production applications as it can execute arbitrary code. Consider using a safer alternative for evaluating mathematical expressions.
