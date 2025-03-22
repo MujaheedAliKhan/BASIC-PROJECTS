@@ -76,11 +76,13 @@ Time is up!
 ```
 
 ## Live Demo
-[Click here to view the live demo](#) *(Replace with link if hosted)*
+--This is a link of [Countdown Timer](https://mujaheedalikhan.github.io/BASIC-PROJECTS/COUNTDOWN-TIMER)
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
+## Author
+- Lavani Mujaheed Ali Khan
 ---
 
 Enjoy building your countdown projects!
