@@ -1,0 +1,73 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282c34;
+    color: #ffffff;
+}
+.timer-container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #61dafb;
+    border-radius: 12px;
+    background-color: #20232a;
+    box-shadow: 0 0 10px white;
+}
+
+.timer-container h1{
+    color: #61dafb;
+}
+.timer-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.inputs {
+    margin-bottom: 20px;
+}
+.inputs input {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 6px;
+    border: 1px solid #61dafb;
+    outline: none;
+}
+#date-time{
+    width: 80%;
+    margin-top: 5px;
+    box-shadow: 0 0 8px #61dafb;
+}
+.inputs #label{
+    font-size: 16px;
+    font-weight: 600;
+}
+.inputs button {
+    padding: 10px 20px 10px 20px;
+    margin: 8px;
+    width: 80%;
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+    background-color: #61dafb;
+    cursor: pointer;
+    transition: .1s ease-in-out;
+}
+.inputs button:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 8px white;
+
+}
+.countdown {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
