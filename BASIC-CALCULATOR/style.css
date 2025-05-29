@@ -105,12 +105,12 @@ form input.operator{
    .sub-container p{
         /* margin-bottom: 0.2rem; */
         margin-right: 2rem;
-        width: 50%;
+        width: 80%;
         height:15%;
         font-size: 2rem;
    }
    .calculator{
-        width: 63%;
+        width: 90%;
         height: 48%;
         margin-left: 8%;
    }
